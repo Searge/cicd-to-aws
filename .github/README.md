@@ -1,6 +1,6 @@
 # GitHub Actions deploy Flask to AWS Elastic Beanstalk
 
-
+[Video Tutorial](https://www.youtube.com/watch?v=JUzhx3TWoJw&list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l&index=16)
 
 
 Status of Last Deployment:<br>

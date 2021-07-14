@@ -3,7 +3,7 @@ name = "cicd-to-aws"
 version = "0.1.0"
 description = ""
 authors = ["Denis Astahov https://www.astahov.net/"]
-license = "MIT"
+license = "Copyleft"
 
 [tool.poetry.dependencies]
 python = "^3.9"
